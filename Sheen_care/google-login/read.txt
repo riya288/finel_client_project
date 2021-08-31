@@ -1,0 +1,6 @@
+c_id:-    484350856755-nuce4ed6t6r6s9i8fbd9m8nk2ia5e4fb.apps.googleusercontent.com
+
+c_s_id:-  TRV_9IIl5D4_yM6BUGJUj9bw
+
+
+https://console.cloud.google.com/apis/dashboard?authuser=1&project=smcp-311907&supportedpurview=project
